@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          19.4123401,
+          -99.18059840000001
+        ]
+      },
+      "properties": {
+        "name": "México City"
+      }
+    },
+    {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -95.341341,
           29.72116
         ]
